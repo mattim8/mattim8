@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="mailto:matviitm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-matviitm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://t.me/madtmt">
     <img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
@@ -92,3 +95,4 @@ Current direction: production-oriented ETL patterns, reliable SQL/Python code, A
 
 - Telegram: [@madtmt](https://t.me/madtmt)
 - GitHub: [mattim8](https://github.com/mattim8)
+- Gmail: [matviitm@gmail.com](mailto:matviitm@gmail.com)
